@@ -1,7 +1,7 @@
 export default function Log({ turns }) {
   return (
     <>
-      <h2 id="log">Logs</h2>
+      <h2 id="log">These are logs</h2>
       <ol id="log">
         {turns.map((item) => {
           return (
